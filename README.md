@@ -7,12 +7,12 @@ The app is a single-page application that meets the PWA criteria. The applicatio
 The starter code has been received.
 
 ## Installation
-1. Open app in browser.
+1. Open app in browser. Folow: https://text-editor-2-0y2v.onrender.com/
 2. Press install button.
 
 ## Usage
 
-1. Open:
+1. Open: https://text-editor-2-0y2v.onrender.com/ 
 2. Press install button.
 3. Type any notes, ypu can reach them with or without an internet connection.
 
